@@ -9,11 +9,11 @@
 
 ✅ GitHub Actions: Tests
 Replace "test.yml" with your actual workflow filename
-![Tests](https://github.com/eggduzao/phenoteka/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/eduardogade/phenoteka/actions/workflows/test.yml/badge.svg)
 
 📈 Codecov: Code Coverage
 Sign up at codecov.io and activate this project
-[![codecov](https://codecov.io/gh/eggduzao/phenoteka/branch/main/graph/badge.svg)](https://codecov.io/gh/eggduzao/phenoteka)
+[![codecov](https://codecov.io/gh/eduardogade/phenoteka/branch/main/graph/badge.svg)](https://codecov.io/gh/eduardogade/phenoteka)
 
 📦 PyPI version
 [![PyPI](https://img.shields.io/pypi/v/phenoteka?style=for-the-badge)](https://pypi.org/project/phenoteka/)
@@ -29,7 +29,7 @@ Sign up at codecov.io and activate this project
 ![flake8](https://img.shields.io/badge/flake8-linting-333333?style=for-the-badge&logo=python&logoColor=white)
 
 🧰 Dependencies Status
-[![Dependencies](https://img.shields.io/librariesio/github/eggduzao/phenoteka?style=for-the-badge)](https://libraries.io/github/eggduzao/phenoteka)
+[![Dependencies](https://img.shields.io/librariesio/github/eduardogade/phenoteka?style=for-the-badge)](https://libraries.io/github/eduardogade/phenoteka)
 
 </details>
 
@@ -37,13 +37,13 @@ Sign up at codecov.io and activate this project
 <summary><strong>🔐 Compliance & Maintenance</strong></summary>
 
 🛡️ License
-![License](https://img.shields.io/github/license/eggduzao/phenoteka?style=for-the-badge)
+![License](https://img.shields.io/github/license/eduardogade/phenoteka?style=for-the-badge)
 
 🔒 Security Policy
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=github)](https://github.com/eggduzao/phenoteka/security/policy)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=github)](https://github.com/eduardogade/phenoteka/security/policy)
 
 🔄 Last Commit
-![Last Commit](https://img.shields.io/github/last-commit/eggduzao/phenoteka?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/eduardogade/phenoteka?style=for-the-badge)
 
 </details>
 
@@ -78,7 +78,7 @@ Sign up at codecov.io and activate this project
 
 ![Phenoteka Sync Engine](https://img.shields.io/badge/Phenoteka--Sync-On%20Hold%20🕊️-gray?style=for-the-badge)
 ![Phenoteka Release](https://img.shields.io/badge/Version-Under%20Divine%20Construction%20🚧-purple?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/eggduzao/phenoteka?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/eduardogade/phenoteka?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-FF69B4?style=for-the-badge)
 
 </details>
@@ -264,7 +264,7 @@ Born in the Brazilian SUS ecosystem, Phenoteka embraces **research-grade softwar
 - **Semantic Harmonization**  
   Map local variables to biomedical ontologies: OMOP, SNOMED-CT, LOINC, HPO, UMLS, and more.
 - **Advanced Imputation**  
-  Integrate with [TryDINN](https://github.com/eggduzao/TryDINN) for deep learning-based missing data imputation.
+  Integrate with [TryDINN](https://github.com/eduardogade/TryDINN) for deep learning-based missing data imputation.
 - **Modular Dashboards**  
   Interactive Dash/Plotly UI for exploration, filtering, and data export.
 - **Pluggable Architecture**  
@@ -307,7 +307,7 @@ Phenoteka/
 pip install phenoteka
 
 # From source
-git clone https://github.com/eggduzao/phenoteka.git
+git clone https://github.com/eduardogade/phenoteka.git
 cd phenoteka
 pip install -e .[dev]
 ```
@@ -387,7 +387,7 @@ Use the GUI or CLI to explore and save your results.
 ## 📚 Documentation
 
 Full documentation is available at:
-[phenoteka.org/docs (coming soon)](https://github.com/eggduzao/Phenoteka)
+[phenoteka.org/docs (coming soon)](https://github.com/eduardogade/Phenoteka)
 
 ---
 

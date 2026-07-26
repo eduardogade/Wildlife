@@ -5,7 +5,7 @@
 set -euo pipefail
 
 echo "✨ Creating tree... ✨"
-tree -L 4 --charset utf-8 --noreport > tree.txt
+tree -L 6 --charset utf-8 --noreport > tree.txt
 LC_ALL=UTF-8 sed -i '' $'s/   /\t\t/g' tree.txt
 
 echo "✨ Creating cloc... ✨"
